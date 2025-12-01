@@ -59,7 +59,7 @@ export const About = () => {
               <div className="absolute inset-0 bg-gradient-to-r from-blue-600 to-purple-600 rounded-2xl transform rotate-3" />
               <div className="relative bg-gradient-to-br from-blue-100 to-purple-100 dark:from-gray-700 dark:to-gray-600 rounded-2xl p-8 transform -rotate-3 hover:rotate-0 transition-transform duration-300">
                 <div className="aspect-square bg-gradient-to-br from-blue-600 to-purple-600 rounded-xl flex items-center justify-center text-white text-6xl font-bold">
-                  <img src="../public/assest/profile.jpg" alt="" />
+                  AS
                 </div>
               </div>
             </div>

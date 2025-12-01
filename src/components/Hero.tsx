@@ -131,11 +131,11 @@ export const Hero = () => {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="#"
+              href="https://drive.google.com/file/d/1MQKehzNwwkNIbeR-q7Q5dySYPK0bPDzK/view?usp=drivesdk"
               className="px-8 py-4 border-2 border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 rounded-full font-semibold hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-900 transition-colors flex items-center gap-2"
             >
               <Download size={20} />
-              <a href="../public/assest/Abhi_SDE-!_Resume.pdf">Download Resume</a>
+              Download Resume
             </motion.a>
           </motion.div>
         </div>
