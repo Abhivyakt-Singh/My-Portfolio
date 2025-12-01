@@ -17,7 +17,7 @@ const projects = [
     ],
     gradient: 'from-blue-600 to-cyan-600',
     links: {
-      demo: '#',
+      demo: 'https://echo-shop-chi.vercel.app/',
       github: '#'
     }
   },
@@ -35,7 +35,7 @@ const projects = [
     ],
     gradient: 'from-purple-600 to-pink-600',
     links: {
-      demo: '#',
+      demo: 'https://ai-interface-theta.vercel.app/',
       github: '#'
     }
   }

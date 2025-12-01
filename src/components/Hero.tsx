@@ -135,7 +135,7 @@ export const Hero = () => {
               className="px-8 py-4 border-2 border-blue-600 dark:border-blue-400 text-blue-600 dark:text-blue-400 rounded-full font-semibold hover:bg-blue-600 hover:text-white dark:hover:bg-blue-400 dark:hover:text-gray-900 transition-colors flex items-center gap-2"
             >
               <Download size={20} />
-              Download Resume
+              <a href="../public/assest/Abhi_SDE-!_Resume.pdf">Download Resume</a>
             </motion.a>
           </motion.div>
         </div>

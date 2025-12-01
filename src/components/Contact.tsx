@@ -75,7 +75,7 @@ export const Contact = () => {
     {
       icon: MapPin,
       label: 'Location',
-      value: 'Bhopal, India',
+      value: 'Lucknow, India',
       href: '#',
       gradient: 'from-purple-600 to-pink-600'
     }
